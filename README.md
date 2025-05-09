@@ -22,7 +22,7 @@ You can test the project locally in your browser. Just open the `index.html` fil
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- [OpenWeatherMap API]
 
 ## 📦 File Structure
 ```
